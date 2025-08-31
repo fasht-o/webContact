@@ -2,6 +2,7 @@ import React from "react";
 import { IoPersonOutline } from "react-icons/io5";
 import { FaRegStar } from "react-icons/fa6";
 import { FaHistory } from "react-icons/fa";
+
 const Menubar = () => {
   return (
     <div className="fixed bottom-2">
